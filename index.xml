@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="import rs test" commit="d729665e50b337b8ab1771a978998adb73ee5086">
+  <category name="actions">
+    <reapack name="rs_action.lua" type="script" desc="import repo test - rs action test">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 testing how the import scheme works...\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="rs indigo" time="2026-07-12T00:56:39Z">
+        <source main="main">https://github.com/rsindigo/reapack-import-repo-test/raw/d729665e50b337b8ab1771a978998adb73ee5086/actions/rs_action.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
